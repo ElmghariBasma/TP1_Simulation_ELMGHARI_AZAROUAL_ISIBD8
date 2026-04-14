@@ -1,6 +1,4 @@
 # TP1 - Simulation Interactive et Collecte de Données
-**Module : Ingénierie et maquette numérique** 
-**Filière ISIBD (S8)**
 
 ## Binôme
 - **Basma EL MGHARI**
