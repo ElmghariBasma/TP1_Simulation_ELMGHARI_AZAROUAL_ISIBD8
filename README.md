@@ -4,7 +4,7 @@
 
 ## Binôme
 - **Basma EL MGHARI**
-- **Assmaa Azaroual**
+- **Assmaa AZAROUAL**
 
 ## Objectif
 Ce projet consiste à créer une scène 3D interactive sous Unity 6.4 permettant à un utilisateur de se déplacer et d'interagir avec des objets. Le système enregistre les actions de l'utilisateur (clics, trajectoires) dans un fichier CSV pour analyse, tout en intégrant un comportement IA simple (objet suiveur).
