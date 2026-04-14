@@ -1,0 +1,35 @@
+# Ignore Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+.vs/
+
+# Ignore Visual Studio / Rider files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# Ignore OS specific files
+.DS_Store
+Thumbs.db
+
+# Ignore build outputs
+*.apk
+*.aab
+*.ipa
+*.xcodeproj
+*.xcworkspace
