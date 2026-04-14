@@ -5,7 +5,6 @@
 - **Assmaa Azaroual**
 
 ## Description
-Projet Unity :
 - Scène 3D interactive avec déplacements WASD + souris
 - Interaction par clic sur objets (changement de couleur + logging)
 - Collecte de données utilisateur (clics, temps, positions) export CSV
